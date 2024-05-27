@@ -18,8 +18,5 @@ The Currency Converter Chatbot leverages the power of Dialogflow for Natural Lan
 - **Flask API**: For fetching real-time currency exchange rates.
 - **ngrok**: To create secure tunnels to localhost, providing a real-time web UI to manage HTTP traffic.
 
-## Ngrok Web UI
-
-ngrok provides a real-time web UI where you can inspect all HTTP traffic running over your tunnels. Access the web UI by navigating to `http://localhost:5000` after starting ngrok.
 
 ![Architecture of the Chatbot](botarchi.png)
